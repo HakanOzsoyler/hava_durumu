@@ -15,10 +15,10 @@ Hava Durumu uygulaması, kısaca kullanıcıların Hava Durumunu anlık olarak g
 Uygulamanın bazı ekran görüntülerini aşağıda bulabilirsiniz:
 
 
-<img src="screenshots/screenshot1.png](https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/97640afa-8c01-4889-b76c-ef062a2cf28e" width="200" alt="Ekran Görüntüsü 1">
+<img src="https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/97640afa-8c01-4889-b76c-ef062a2cf28e" width="200" alt="Ekran Görüntüsü 1">
 Ana ekranda Bulunduğu veya seçtiği şehirin hava durumunu detaylı olarak görme.
 
-<img src="[screenshots/screenshot2.png](https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/4e7e2d5b-6c39-4eec-8dac-61fef505c7d3)" width="200" alt="Ekran Görüntüsü 2">
+<img src="https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/4e7e2d5b-6c39-4eec-8dac-61fef505c7d3)" width="200" alt="Ekran Görüntüsü 2">
 Bu ekranda Hava durumunu görmek istediğiniz şehirleri listenize ekleyerek hava durumlarını kolayca bakabilirsiniz.
 
 ...![Screenshot_1647370265_google-pixel4xl-justblack-portrait](https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/f143e03f-5690-43a5-979b-957fde495fa5)
