@@ -17,7 +17,7 @@ Uygulamanın bazı ekran görüntülerini aşağıda bulabilirsiniz:
 
 <img src="https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/97640afa-8c01-4889-b76c-ef062a2cf28e" width="200" alt="Ekran Görüntüsü 1">
 Ana ekranda Bulunduğu veya seçtiği şehirin hava durumunu detaylı olarak görme.
-
+<br>
 <img src="https://github.com/HakanOzsoyler/hava_durumu/assets/77840330/4e7e2d5b-6c39-4eec-8dac-61fef505c7d3)" width="200" alt="Ekran Görüntüsü 2">
 Bu ekranda Hava durumunu görmek istediğiniz şehirleri listenize ekleyerek hava durumlarını kolayca bakabilirsiniz.
 
